@@ -1,0 +1,7 @@
+Algorithm,Type,Security Level,Avg Speed (ms),Key Size (bytes),Best For,Quantum Safe
+ML-KEM-512,Encryption,Level 1,0.35,800,"Fast, low-security apps",Yes
+ML-KEM-768,Encryption,Level 3,0.42,1184,Balanced use (recommended),Yes
+ML-KEM-1024,Encryption,Level 5,0.45,1568,"High security, critical data",Yes
+ML-DSA-44,Signature,Level 2,0.86,1312,Fast signatures,Yes
+ML-DSA-65,Signature,Level 3,1.2,1952,Balanced signatures,Yes
+ML-DSA-87,Signature,Level 5,1.5,2592,Maximum security signatures,Yes
