@@ -1,0 +1,5 @@
+Test,Result,Verify,Latency_ms
+ML-DSA-44 | 1KB,NORMAL,True,0.86
+ML-DSA-44 | 100KB,NORMAL,True,1.4
+ML-DSA-44 | 1MB,NORMAL,True,7.73
+Fake signature attack,ATTACK DETECTED,N/A,N/A
