@@ -18,12 +18,12 @@ The system can also detect anomalous behavior and automatically escalate the cry
 ### Rimsha Rani
 
 **University of the Punjab, Lahore**
-📧 [rimsha.rani@example.com](mailto:rimsharanii211@gmail.com)
+📧 [rimsharanii211@gmail.com](mailto:rimsharanii211@gmail.com)
 
 ### Uma Ammara
 
 **University of the Punjab, Lahore**
-📧 [uma.ammara@example.com](mailto:umeammara459@gmail.com)
+📧 [umeammara459@gmail.com)](mailto:umeammara459@gmail.com)
 
 ---
 
